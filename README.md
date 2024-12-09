@@ -4,7 +4,7 @@ Smart-Bin-AI is an intelligent waste classification system that leverages sensor
 
 The project integrates an Arduino microcontroller for real-time data collection using sensors, and a Random Forest Classifier for AI-based waste classification. It automates the process of waste sorting, thereby promoting sustainability and reducing human effort.
 
-#Features
+Features
 
 Waste Detection: Detects waste using an ultrasonic sensor and identifies its type (organic or inorganic) based on moisture levels.
 Machine Learning Classification: Utilizes a pre-trained RandomForestClassifier to predict waste type based on sensor data.
